@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eloisa-pellegrini.vercel.app/sitemap.xml
+Sitemap: https://eloisapellegrini.vercel.app/sitemap.xml
